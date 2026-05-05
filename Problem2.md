@@ -27,11 +27,11 @@ Input: A = [1,3,5,6], key = 7
 Output: 4
 ```
 
-
 #### Constraints:
+
 ```
-1 <= A.length <= 1000000
--1000000 <= A[i] <= 1000000
+1 <= A.length <= 10000
+-10000 <= A[i] <= 10000
 A contains distinct values sorted in ascending order.
--1000000 <= key <= 1000000
+-10000 <= key <= 10000
 ```

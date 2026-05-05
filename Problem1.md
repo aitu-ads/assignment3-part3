@@ -27,8 +27,8 @@ Explanation: 2 does not exist in A so return -1
 #### Constraints:
 
 ```
-1 <= A.length <= 104
--1000 < A[i], key < 1000
+1 <= A.length <= 10000
+-10000 < A[i], key < 10000
 All the integers in A are unique.
 A is sorted in ascending order.
 ```
