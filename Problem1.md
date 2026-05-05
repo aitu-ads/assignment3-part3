@@ -1,4 +1,3 @@
-
 ### Problem 1. Vanilla Binary Search
 
 Given an array of integers `A` which is sorted in ascending order, and an integer `key`, write a function to search `key` in `A`.
